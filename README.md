@@ -9,7 +9,7 @@
 
 - 💻 I’m currently learning **HTML, CSS, Javascript**
 
-- ✝ I'm looking for ways to support the Ezra Bible App [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app)
+- ✝ I'm looking for ways to support the [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app)
 
 - 🧐 I am very interested in JS, ReactJS, Node.js, Typescript
 
