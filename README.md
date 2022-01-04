@@ -1,5 +1,5 @@
 ##### Guilherme Augusto
----
+-
 ### Salve! 👋
 
 Eu sou professor de Química e estou em transição para a área de desenvolvimento web, com as linguagens de HTML, CSS, JavaScript, e frameworks como React e Vue.js. 
