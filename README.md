@@ -1,4 +1,4 @@
-# Guilherme Augusto
+<center># Guilherme Augusto</center>
 ---
 #### Salve! 👋
 
