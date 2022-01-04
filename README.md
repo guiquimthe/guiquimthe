@@ -8,4 +8,4 @@ Eu sou professor de Química e estou em transição para a área de desenvolvime
 - 😉 Aprendendo JavaScript (JS)
 - 🧐 Interesses em: JS, ReactJS, Node.js, Typescript
 - 💬 Sobre mim: um homem muito família
-- 📫 Contate-me: LinkedIn[www.linkedin.com/in/guiquimthe] | guilherme.quim@outlook.com
+- 📫 Contate-me: (LinkedIn)[www.linkedin.com/in/guiquimthe] | guilherme.quim@outlook.com
