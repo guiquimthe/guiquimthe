@@ -1,11 +1,18 @@
-<center># Guilherme Augusto</center>
----
-#### Salve! 👋
+<h1 align="center">Hi 👋, I'm Guilherme</h1>
 
-Eu sou professor de Química e estou em transição para a área de desenvolvimento web, com as linguagens de HTML, CSS, JavaScript, e frameworks como React e Vue.js. 
+<p align="center">A <strong>Chemistry</strong> professor and development student <strong>front-end</strong>.</p>
+</p>
 
-📘 Estudante de Engenharia Front-End  
-😉 Aprendendo JavaScript (JS)  
-🧐 Interesses em: JS, ReactJS, Node.js, Typescript  
-💬 Sobre mim: um homem muito família  
-📫 Contate-me: [LinkedIn](www.linkedin.com/in/guiquimthe) | guilherme.quim@outlook.com
+- 😉 I’m a christian
+
+- 🔭 I’m currently working on [emquími.ca](https://www.instagram.com/emquimi.ca)
+
+- 💻 I’m currently learning **HTML, CSS, Javascript**
+
+- ✝ I'm looking for ways to support the Ezra Bible App [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app)
+
+- 🧐 I am very interested in JS, ReactJS, Node.js, Typescript
+
+- 📫 Contact me: [LinkedIn](www.linkedin.com/in/guiquimthe) | guilherme.quim@outlook.com
+
+- 💬 About me: a very family man
