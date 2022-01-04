@@ -7,6 +7,5 @@ Eu sou professor de Química e estou em transição para a área de desenvolvime
 - 📘 Estudante de Engenharia Front-End
 - 😉 Aprendendo JavaScript (JS)
 - 🧐 Interesses em: JS, ReactJS, Node.js, Typescript
-- 👪 Sobre mim: um homem muito família
-- 💬 Ask me about ...
+- 💬 Sobre mim: um homem muito família
 - 📫 Contate-me: LinkedIn[www.linkedin.com/in/guiquimthe] | guilherme.quim@outlook.com
