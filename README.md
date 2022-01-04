@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 
-<p align="center">A <strong>Chemistry</strong> professor and development student <strong>front-end</strong>.</p>
+<p align="center">A <strong>chemistry</strong> professor and development student <strong>front-end</strong>.</p>
 </p>
 
 - 😉 I’m a christian
